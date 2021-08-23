@@ -95,6 +95,7 @@ int A, B , C, D;
 			}
 		}
 	}	
+	
 	system ("pause");
 	
 }
