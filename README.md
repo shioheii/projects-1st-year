@@ -17,4 +17,6 @@ Here are the projects from the first year of my technical course.
 - Link to code: [CPF verifier](https://github.com/shioheii/projects-1st-year/blob/main/Projects/CPF%20Verifier.cpp)
 
 ## Fourth project
-- (Coming soon)
+- In this project I developed a program to inform students about the results of the school year (passed, final exam, retained). The program should allow typing of 5 subjects (in this case, according to the instructions in the statement, each subject would be represented by just one digit, stored in different indices of a vector) and 4 grades for each subject. In addition, the program should contain structures studied throughout the academic year (condition structures, repetition, vectors and matrices, procedures and functions).
+- Project proposal: [Utterance](https://github.com/shioheii/projects-1st-year/blob/main/Projects/Enunciados/Enunciado%20Projeto%204.pdf)
+- Link to code: [Grade verification](https://github.com/shioheii/projects-1st-year/blob/main/Projects/Grade%20verification.cpp)
